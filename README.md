@@ -7,6 +7,8 @@ The keycap equations model provides a method to generate human-like and syntheti
 The model is designed to capture the intricacies of human typing behaviors. As more samples are taken from the model, moving forward on the time axis, the velocity decreases due to the exponential terms in the model. 
 To prevent the model from decaying too rapidly, time series are constrained to a range of 0-1 second with 1000 samples.
 
+![Keycap](./assets/keycap.gif)
+
 ## Installation
 
 ```
