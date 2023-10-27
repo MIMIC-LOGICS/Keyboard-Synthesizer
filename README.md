@@ -7,6 +7,12 @@ The keycap equations model provides a method to generate human-like and syntheti
 The model is designed to capture the intricacies of human typing behaviors. As more samples are taken from the model, moving forward on the time axis, the velocity decreases due to the exponential terms in the model. 
 To prevent the model from decaying too rapidly, time series are constrained to a range of 0-1 second with 1000 samples.
 
+## Installation
+
+```
+pip install keycap
+```
+
 ### Complexity and Variations
 
 1. n:
@@ -79,6 +85,8 @@ This demonstration will show you how to generate model values and convert veloci
 #### The code
 
 ```python
+from keycap import Controller, ConfigurationManager, Plant
+
 if __name__ == "__main__":
     # Initialization:
 
