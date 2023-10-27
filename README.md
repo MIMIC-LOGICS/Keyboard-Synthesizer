@@ -1,4 +1,4 @@
-# Keycap Equations for Human-Like and Synthetic Human Movements
+# Keycap Equations for Human-Like Keyboard Strokes
 
 The keycap equations model provides a method to generate human-like and synthetic human movements emulating the dynamics of keyboard typing. The system is comprised of a 'Plant', 'Controller', 'Keycap' functions, and a 'Configuration Manager'.
 
