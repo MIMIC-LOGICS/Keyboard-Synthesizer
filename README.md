@@ -1,7 +1,7 @@
 # Keycap Equations for Human-Like Keyboard Strokes
 
 The keycap equations model provides a method to generate human-like and synthetic human movements emulating the dynamics of keyboard typing. The system is comprised of a 'Plant', 'Controller', 'Keycap' functions, and a 'Configuration Manager'.
-The project is based on a study of real keyboard strokes. Details on the implementation are available here: https://atlaslogics.github.io/antibot/On-Anti-Bot-Biometric-Protections.md/
+The project is based on a study of real keyboard strokes. Details on the implementation are available on my [blog](https://atlaslogics.github.io/antibot/On-Anti-Bot-Biometric-Protections.md/).
 
 ## Overview
 
